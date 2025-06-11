@@ -37,9 +37,6 @@ hospital-readmission-risk-pipeline/
 ├── requirements.txt
 └── .gitignore
 
-yaml
-Copy code
-
 ---
 
 ## Next Steps
